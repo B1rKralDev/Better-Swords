@@ -1,26 +1,37 @@
-# Better Swords
+# ⚔️ Better Swords
 
-A vanilla-friendly 16x Minecraft resource pack.
+Upgrade your vanilla swords without losing Minecraft's classic style!
 
-## Features
+**Better Swords** is a **16x vanilla-friendly** resource pack that redesigns every sword with cleaner shapes, sharper details, and improved shading while keeping them instantly recognizable.
+![Inventory View](https://cdn.modrinth.com/data/cached_images/73f444ab3744885dd92ba4f3bd3a693d7c93a375.png)
+## ✨ Features
 
-- Improved sword textures
-- Clean vanilla style
-- Lightweight
-- Easy to use
+- 🪵 Redesigned Wooden Sword
+- 🪨 Redesigned Stone Sword
+- ⛓️ Redesigned Iron Sword
+- 🟡 Redesigned Golden Sword
+- 💎 Redesigned Diamond Sword
+- 🟣 Redesigned Netherite Sword
+- 🟠 Redesigned Copper Sword
+- 🎨 Clean & polished textures
+- 📦 16x Resolution
+- 🌿 Vanilla-friendly style
+- ⚡ Lightweight & easy to use
+- ✅ Supports the latest Minecraft versions
 
-## Installation
+## ❤️ Why Better Swords?
 
-1. Download the resource pack.
-2. Place it inside the resourcepacks folder.
-3. Enable it from Minecraft.
+If you've ever felt that vanilla swords could look a little cleaner and more detailed without changing Minecraft's iconic look, this pack is for you.
 
-## Versions
+Enjoy an improved vanilla experience while keeping the game feeling familiar.
 
-Minecraft 1.21+
+Keywords: Better Swords, Sword Texture Pack, Vanilla Swords, Minecraft Resource Pack, 16x, Vanilla Friendly.
 
-## License
+⭐ If you enjoy this pack, consider following the project for future updates!
 
-MIT License
+## 💙 Support
 
-Created by B1rKral.
+Your feedback helps improve the pack!
+
+⭐ Leave a favorite if you enjoy it.
+☕ Support future updates on kofe.al.
